@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">First</string>
-    <string name="icons">&#x33;</string>
+    <string name="font_home_page">&#xe600;</string>
+    <string name="font_type">&#xe601;</string>
+    <string name="font_find">&#xe604;</string>
+    <string name="font_shop_car">&#xe602;</string>
+    <string name="font_me">&#xe603;</string>
 </resources>
